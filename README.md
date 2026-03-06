@@ -70,7 +70,7 @@ The dataset contains **2000 records** with fields such as:
 * Sales by Customer Segment
 * Quantity and Sales by Segment
 
-### 🔹 Interactive Filters
+### 🔹 Interactive Slicer
 
 * Category
 * Year
